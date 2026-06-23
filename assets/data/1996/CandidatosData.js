@@ -116,11 +116,11 @@ export const candidatoData = [
   {
     partido: 8,
     nombre: 'VALAZQUEZ JACINTO',
-    url: img('candidatos/8.png'),
-    logo: img('partidos/RETO.png'),
+    url: img('imagenes_presidentes/1996/Jacinto_Valazquez.png'),
+    logo: img(''),
     color: '#4a4a4a',
     nombrePartido: 'MITI-20',
-    json: '8'
+    json: 'MITI-20'
   },
   {
     partido: 9,
